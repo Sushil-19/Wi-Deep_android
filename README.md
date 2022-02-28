@@ -44,6 +44,6 @@ A MVP android application which is able to estimate the position of a user withi
 * Commit changes to a branch in your fork
 * Pull request with your changes
 
-## Developers
 
-[Ajnas](https://github.com/ajnas) and [Jazeem](https://github.com/jazeem). Feel free to contact us in case of any issue while setting up/testing. 
+### To Be Noted
+* First kindly extract the files in backend and
