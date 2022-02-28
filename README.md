@@ -45,5 +45,5 @@ A MVP android application which is able to estimate the position of a user withi
 * Pull request with your changes
 
 
-### To Be Noted
-* First kindly extract the files in backend and
+## To Be Noted
+* First kindly extract the files in backend and Wi-Deep_android/android-client/app/src/main/res folder.
